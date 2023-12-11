@@ -1,0 +1,17 @@
+{
+  "name": "msfs-copy-throttle-config-daemon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "node ./src/scripts/buildexe.mjs"
+  },
+  "keywords": [],
+  "author": "auroraisluna",
+  "homepage": "https://github.com/auroraisluna/msfs-copy-throttle-config-daemon",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "@angablue/exe": "^2.1.1",
+    "chokidar": "^3.5.3"
+  }
+}
