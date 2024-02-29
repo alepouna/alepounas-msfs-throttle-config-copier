@@ -1,3 +1,5 @@
+## ⚠️⚠️⚠️ As of 29/02/2024 this repo has been moved to GitLab at https://gitlab.com/alepouna.dev/alepounas-msfs-throttle-config-copier
+
 # msfs-copy-throttle-config-daemon
 
 A simple tool that copies default FlyByWire A32NX Throttle Configurations from the MSFS work directory to the new aircraft directory. Usually when testing PRs for the FBW and you use custom names (e.g. instead of 'a32nx' you have them named under the PR ID e.g. '8123') 
